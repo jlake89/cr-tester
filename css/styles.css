@@ -9,8 +9,12 @@
   border: 5px outset darkblue;
 }
 
-.pics {
-  max-width: 10px;
-  max-height: 10px;
+.scenes {
+  width: flex;
+  height: flex;
 
+}
+
+body {
+  padding: 25px;
 }
