@@ -1,3 +1,16 @@
 .outrage {
-  color:darkred
+  color:darkred;
+  font-weight: bold;
+}
+
+.towns {
+  color:black;
+  background-color:aqua;
+  border: 5px outset darkblue;
+}
+
+.pics {
+  max-width: 10px;
+  max-height: 10px;
+
 }
