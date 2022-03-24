@@ -7,9 +7,14 @@
   color:black;
   background-color:aqua;
   border: 5px outset darkblue;
+  padding: 15px;
 }
 
 body {
-  padding: 15px;
+  margin: 15px;
   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.pics {
+  float:left;
 }

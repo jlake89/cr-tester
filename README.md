@@ -2,7 +2,7 @@
 
 #### By _**Joel Lake**_
 
-#### _Just a quick little website on Idaho. Just practice._
+#### _Just a quick little website on Idaho. Just practice. https://github.com/jlake89/cr-tester_
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ _Just a practice website for Epicodus._
 * _Enjoy!_
 
 
-_Just run this puppy on your web browser and read away!_
+_Just run this on your Chrome web browser and read away!_
 
 ## Known Bugs
 
