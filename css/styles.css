@@ -9,12 +9,6 @@
   border: 5px outset darkblue;
 }
 
-.scenes {
-  width: flex;
-  height: flex;
-
-}
-
 body {
-  padding: 25px;
+  padding: 15px;
 }
